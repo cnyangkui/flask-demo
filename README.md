@@ -1,6 +1,6 @@
 # flask-demo
 flask项目结构规范
-
+<pre>
 |-flasky
     |-app/
         |-templates/
@@ -20,3 +20,4 @@ flask项目结构规范
     |-requirements.txt
     |-config.py
     |-manage.py
+</pre>
