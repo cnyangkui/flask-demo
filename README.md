@@ -1,6 +1,6 @@
 # flask-demo
 
-flask项目结构规范
+## flask项目结构规范
 <pre>
 |-flasky
     |-app/
@@ -23,7 +23,7 @@ flask项目结构规范
     |-manage.py
 </pre>
 
-# 实用教程
+## 实用教程
 
 [从零开始用 Flask 搭建一个网站](https://www.jianshu.com/p/cc90a14856c5)
 
